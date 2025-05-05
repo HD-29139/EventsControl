@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qU/2T6iWlN0=",
+  "success": true,
+  "projectFilePath": "/home/ArchJefferson/control_public_events/control_public_events.csproj",
+  "expectedPackageFiles": [
+    "/home/ArchJefferson/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
