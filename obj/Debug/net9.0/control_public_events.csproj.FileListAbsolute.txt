@@ -1,0 +1,15 @@
+/home/ArchJefferson/control_public_events/bin/Debug/net9.0/control_public_events
+/home/ArchJefferson/control_public_events/bin/Debug/net9.0/control_public_events.deps.json
+/home/ArchJefferson/control_public_events/bin/Debug/net9.0/control_public_events.runtimeconfig.json
+/home/ArchJefferson/control_public_events/bin/Debug/net9.0/control_public_events.dll
+/home/ArchJefferson/control_public_events/bin/Debug/net9.0/control_public_events.pdb
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.GeneratedMSBuildEditorConfig.editorconfig
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.AssemblyInfoInputs.cache
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.AssemblyInfo.cs
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.csproj.CoreCompileInputs.cache
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.sourcelink.json
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.dll
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/refint/control_public_events.dll
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.pdb
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/control_public_events.genruntimeconfig.cache
+/home/ArchJefferson/control_public_events/obj/Debug/net9.0/ref/control_public_events.dll
