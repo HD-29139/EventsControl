@@ -23,10 +23,10 @@ class Program
                     EventRegister();
                     break;
                 case "2":
-                    PersonRegister();
+                    // PersonRegister();
                     break;
                 case "3":
-                    ListEvents();
+                    // ListEvents();
                     break;
                 case "4":
                     return;
@@ -37,6 +37,35 @@ class Program
             }
         }
 
-    
+                
+        static void EventRegister()
+        {
+            Event newEvent = new Event();
+
+            Console.WriteLine("Event Name: ");
+            newEvent.Name = Console.ReadLine();
+
+            Console.WriteLine("Event Local: ");
+            newEvent.Local = Console.ReadLine();
+
+            Console.WriteLine("Is the event paid? (y/n): ");
+            var paid = Console.ReadLine();
+
+            if (paid == "y")
+            {
+                Console.WriteLine("Event Value: ");
+                newEvent.Value = Convert.ToDouble(Console.ReadLine());
+            }
+            else
+            {
+                newEvent.Value = 0;
+            }
+
+            events.Add(newEvent);
+            Console.WriteLine("Event registered successfully!");
+
+           
+        }
+        
     }
 }
