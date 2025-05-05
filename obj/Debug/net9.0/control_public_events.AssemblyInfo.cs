@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("control_public_events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82027bcba06be42d92885656cfc95b078980147c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030156b172cef294bc9559b35751a944db6e4204")]
 [assembly: System.Reflection.AssemblyProductAttribute("control_public_events")]
 [assembly: System.Reflection.AssemblyTitleAttribute("control_public_events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
