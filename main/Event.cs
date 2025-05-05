@@ -1,20 +1,11 @@
-using System.Drawing;
-
 namespace control_public_events.main
 {
     public class Event
     {
-        public string Name { get; set; }
-        public string Local { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Local { get; set; } = string.Empty;
         public double Value { get; set; }
         public List<Person> Participants { get; set; } = new List<Person>();
-
-        public Event(string name, string local, double value)
-        {
-            this.Name = name;
-            this.Local = local;
-            this.Value = value;
-        }
 
         public bool AddPerson(Person person)
         {
